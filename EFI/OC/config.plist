@@ -1220,7 +1220,7 @@
 			<key>AllowSetDefault</key>
 			<true/>
 			<key>SecureBootModel</key>
-			<string>Default</string>
+			<string>Disabled</string>
 			<key>ApECID</key>
 			<integer>0</integer>
 			<key>AuthRestart</key>
