@@ -1625,7 +1625,7 @@
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>ResizeGpuBars</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 			<key>ResizeUsePciRbIo</key>
 			<false/>
 			<key>TscSyncTimeout</key>
